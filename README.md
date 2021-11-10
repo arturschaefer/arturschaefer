@@ -9,9 +9,6 @@
 - ⚡ Fun fact: I'm afraid of heights, but I like sports in the air
 
 #### Contact me
-<a href="https://github.com/arturschaefer">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
-</a>
 <a href="https://twitter.com/ArturSchaefer2">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge" />
 </a>
