@@ -17,8 +17,9 @@
 </a>
 
 
-
 #### GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=arturschaefer&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturschaefer&layout=compact&theme=dark)
+<div align="left">
+  <a href="https://github.com/arturschaefer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturschaefer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturschaefer&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
