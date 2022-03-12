@@ -2,7 +2,7 @@
 
 #### I'm a Mobile Software Engineer working from Barcelona, Spain.
 
-- 🔭 I’m currently working as Android Engineer at [Nespresso](https://play.google.com/store/apps/details?id=com.nespresso.activities&gl=ES)
+- 🔭 I’m currently working as Android Engineer
 - 👨‍💻  In my free time I've been working to build a library to check [liveness using face detection](https://github.com/arturschaefer/liveness-camerax-android)
 - 🇧🇷 I'm from Brazil
 - 💬 Ping me about **android**, **kotlin**, **flutter**, **programming**, **games**
