@@ -2,9 +2,9 @@
 
 #### I'm a Mobile Software Engineer working from Barcelona, Spain.
 
-- 🔭 I’m currently working as Android Engineer
+- 🔭 I’m currently working as Software Engineer at [Glovo](https://glovoapp.com/)
 - 👨‍💻  In my free time I've been working to build a library to check [liveness using face detection](https://github.com/arturschaefer/liveness-camerax-android)
-- 🇧🇷 I'm from Brazil
+- 🇧🇷 I'm from Brazil, but I've been living in Barcelona
 - 💬 Ping me about **android**, **kotlin**, **flutter**, **programming**, **games**
 - ⚡ Fun fact: I'm afraid of heights, but I like sports in the air
 
