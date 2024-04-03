@@ -2,9 +2,9 @@
 
 #### I'm a Mobile Software Engineer working from Barcelona, Spain.
 
-- 🔭 I’m currently working as Software Engineer at [Glovo](https://glovoapp.com/)
-- 👨‍💻  Check out my public library using Firebase Machine Learning Kit [liveness using face detection](https://github.com/arturschaefer/liveness-camerax-android)
-- 🇧🇷 I'm a Brazilian living in Barcelona
+- 🔭 I do Kotlin code for a living, helping stakeholders to achieve their goals
+- 👨‍💻 Check out my public library using Firebase Machine Learning Kit [liveness using face detection](https://github.com/arturschaefer/liveness-camerax-android)
+- 🇧🇷 I'm a Brazilian going back to home
 - 💬 Ping me about **android**, **kotlin**, **flutter**, **programming**, **games**
 
 #### Contact me
